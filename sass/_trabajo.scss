@@ -1,0 +1,40 @@
+#hexagono3 {
+  height: 20em;
+  margin: -3em 0;
+  overflow: hidden;
+  transform: rotate(120deg);
+  visibility: hidden;
+  width: 10em;
+  background-color: red;
+}
+#hexagono3-1 {
+  height: 100%;
+  overflow: hidden;
+  transform: rotate(-60deg);
+  width: 100%;
+  background-color: red;
+}
+#hexagono3-2 {
+  height: 100%;
+  transform: rotate(-60deg); 
+  visibility: visible ;
+  width: 100%;
+  background-color: red;
+}
+.valores{
+  font-weight: regular;
+  font-size: 16px;
+}
+.fa{
+  padding-left: 7px;
+  padding-top: 9px;
+}
+.slider{
+  .slides{
+    li{
+      .team{
+        background-position: 10% 40%;
+      }
+    }
+  }
+}
