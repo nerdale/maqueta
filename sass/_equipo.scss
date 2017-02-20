@@ -6,8 +6,11 @@ body{
 	font-size: 13px;
 }
 .navbar{
-    background-color: $nav-color !important;
+    background-color: rgba(45, 45, 45, 1);
     box-shadow: none !important;
+}
+.show {
+  background-color: rgba(45, 45, 45, 0.8);
 }
 .logo{
     width: 205px;
